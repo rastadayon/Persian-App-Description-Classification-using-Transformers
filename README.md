@@ -1,5 +1,5 @@
 # Persian-App-Description-Classification-using-Transformers
-Persian text classification - Classification of app descriptions in their categoriess using X-LMRoberta
+Persian text classification - Classification of app descriptions in their categoriess using XLM-Roberta
 
 
 The dataset I have worked on is comprised of real persian texts from CafeBazaar apps description and the apps categories. The objective for this projects is to **predict app categories** as accurately as possible. 
